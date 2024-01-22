@@ -27,7 +27,7 @@ Before using this notebook, ensure you have the following:
 1. **Clone the Repository**: Clone or download this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/pdb-data-analysis-notebook.git
+    git clone https://github.com/HazelPinto/UBMI_SS.git
     ```
 
 2. **Navigate to the Directory**: Open a terminal and go to the directory where you cloned the repository.
@@ -42,7 +42,7 @@ Before using this notebook, ensure you have the following:
     jupyter notebook
     ```
 
-4. **Open the Notebook**: In your browser, open the notebook named `PDB_Data_Analysis.ipynb`.
+4. **Open the Notebook**: In your browser, open the notebook named `Unitled.ipynb`.
 
 5. **Run the Cells**: Execute each cell sequentially by clicking on it and pressing `Shift + Enter`.
 
@@ -50,10 +50,3 @@ Before using this notebook, ensure you have the following:
 
 Feel free to customize the notebook based on your specific requirements. You can modify parameters, add new analysis steps, or integrate additional visualizations.
 
-## Contributions
-
-If you encounter any issues, have suggestions for improvements, or would like to contribute, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/pdb-data-analysis-notebook).
-
-## License
-
-This notebook is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
